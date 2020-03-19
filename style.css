@@ -1,0 +1,51 @@
+.container{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.container_body{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.container_body .text-block {
+  position: absolute;
+  left: 50px;
+  top: 20%;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 30px;
+  width: 41%;
+}
+.btns{
+  border: 1px solid transparent;
+  border-left: 4px solid #27931d;
+  padding: 15px 30px;
+  border-radius: 0;
+  background-color: #43b938;
+  color: #fff;
+}
+.btns:hover{
+  background-color: #27931d;
+  border-left: 4px solid #27931d;
+}
+.border-lefts{
+  border-left:3px solid #43b938;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(0, 0, 0);
+
+}
+.actives{
+  background-color: #43b938;
+  border: 2px solid transparent;
+  border-bottom: 4px solid #27931d;
+  margin-right: 10px;
+}
+.actives:hover{
+  background-color: #27931d;
+  border: 2px solid transparent;
+  border-bottom: 4px solid #27931d;
+}
+.carousel-item img {
+  height: 560px;
+}
